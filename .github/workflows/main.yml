@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <title> RESUME</title>
+        <style>
+            .box{
+                background-color: aqua;
+                color: whitesmoke;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>
+            <u>MYSELF:</u><br>
+            Vigneshwar M
+        </h1>
+        <h2>
+            Studying in <strong>Sairam Engineering college</strong><br>
+            DEPT:M.Tech CSE (INTEGRATED)<br>
+            
+            
+        </h2>
+        <h3>
+            <b>Interest:</b>
+        </h3>
+        <p>
+            Playing Chess,<br>
+            Programming,<br>
+            Web Developing,<br>
+        </p>
+        <p>
+            <h3 class="box">
+            <b>Academic Qualification :</b>
+            </h3>
+            completed my schooling in St.Gemma Matric Hr Sec School <br>
+            At Ramdham,korattur <br>
+            Tiruvanamalai District 
+        </p>
+
+
+
+    </body>
+</html>
